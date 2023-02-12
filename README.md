@@ -1,6 +1,8 @@
 # gaemsens
 a cool css for your html website
 
+[CSS Demo](https://sxnvte.github.io/gaemsens/)
+
 # Usage
 
 - add to your html head section this line
@@ -12,4 +14,8 @@ a cool css for your html website
 ```
 <div class="gradientbar"></div>
 ```
+
+- have fun!
+
+
 
